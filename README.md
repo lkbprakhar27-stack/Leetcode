@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
