@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
