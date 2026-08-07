@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
