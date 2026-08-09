@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
