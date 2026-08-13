@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
