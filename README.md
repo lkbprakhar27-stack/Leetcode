@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Ternary Search
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
