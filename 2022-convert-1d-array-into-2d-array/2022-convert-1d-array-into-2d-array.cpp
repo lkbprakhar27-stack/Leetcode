@@ -1,10 +1,18 @@
-class Solution{
-    public:
-    vector<vector<int>> construct2DArray(vector<int>& org, int m, int n) {
-    if(org.size()!=m*n) return {};
-    vector<vector<int>>ans(m,vector<int>(n));
-    for(int i=0;i<org.size();i++) 
-    ans[i/n][i%n]=org[i];
-    return ans;
+class Solution {
+public:
+    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+        if (original.size() != (size_t)(m * n)) {
+            return {};
+        }
+
+        vector<vector<int>> result(m, vector<int>(n));
+        int idx = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                result[i][j] = original[idx];
+                idx++;
+            }
+        }
+        return result;
     }
 };
