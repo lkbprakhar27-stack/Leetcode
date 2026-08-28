@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
