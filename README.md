@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
