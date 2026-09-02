@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
