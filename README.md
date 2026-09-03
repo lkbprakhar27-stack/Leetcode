@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
