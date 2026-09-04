@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0344-reverse-string) |
 ## Matrix
