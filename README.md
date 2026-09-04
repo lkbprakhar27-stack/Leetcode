@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0620-not-boring-movies) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
