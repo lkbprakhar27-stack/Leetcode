@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
