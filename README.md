@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0344-reverse-string) |
