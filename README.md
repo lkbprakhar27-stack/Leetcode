@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
