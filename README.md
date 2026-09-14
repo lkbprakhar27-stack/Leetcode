@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Depth-First Search
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0509-fibonacci-number) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -120,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
