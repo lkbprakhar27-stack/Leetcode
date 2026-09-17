@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
