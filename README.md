@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
