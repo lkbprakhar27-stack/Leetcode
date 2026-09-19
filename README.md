@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -165,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
