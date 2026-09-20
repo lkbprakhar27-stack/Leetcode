@@ -82,13 +82,13 @@ public:
         if (index == 0) {
             todelete = head;
             head = head->next;
-            if (head == nullptr) tail = nullptr;  // list became empty
+            if (head == nullptr) tail = nullptr;  
         } else {
             Node* prev = head;
             for (int i = 0; i < index - 1; i++) prev = prev->next;
             todelete = prev->next;
             prev->next = todelete->next;
-            if (todelete == tail) tail = prev;    // deleted the last node
+            if (todelete == tail) tail = prev;   
         }
         delete todelete;
         size--;
