@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/lkbprakhar27-stack/Leetcode/tree/master/1148-article-views-i) |
 ## Prefix Sum
 |  |
 | ------- |
